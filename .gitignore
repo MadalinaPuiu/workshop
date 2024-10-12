@@ -18,6 +18,7 @@ build/
 .externalNativeBuild
 .cxx
 local.properties
+/.idea/*
 
 # Log/OS Files
 *.log
